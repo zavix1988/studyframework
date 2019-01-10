@@ -1,0 +1,6 @@
+/vendor/bin/
+/vendor/composer/
+/vendor/monolog/
+/vendor/phpmailer/
+/vendor/psr/
+/vendor/vlucas/

@@ -1,0 +1,22 @@
+[2019-01-09 13:05:53] Текст ошибки: Undefined variable: test   |  Файл: /var/www/fw.loc/public/test/error/index.php | Строка: 67
+-------------
+[2019-01-09 13:05:56] Текст ошибки: Undefined variable: test   |  Файл: /var/www/fw.loc/public/test/error/index.php | Строка: 67
+-------------
+[2019-01-09 13:09:39] Текст ошибки: Uncaught TypeError: Argument 1 passed to ErrorHandler::exceptionHandler() must be an instance of Exception, instance of Error given in /var/www/fw.loc/public/test/error/index.php:50
+Stack trace:
+#0 [internal function]: ErrorHandler->exceptionHandler(Object(Error))
+#1 {main}
+  thrown   |  Файл: /var/www/fw.loc/public/test/error/index.php | Строка: 50
+-------------
+[2019-01-09 13:10:58] Текст ошибки: Call to undefined function test()   |  Файл: /var/www/fw.loc/public/test/error/index.php | Строка: 71
+-------------
+[2019-01-09 13:11:43] Текст ошибки: Call to undefined function test()   |  Файл: /var/www/fw.loc/public/test/error/index.php | Строка: 71
+-------------
+[2019-01-09 13:11:56] Текст ошибки: Страница не найдена   |  Файл: /var/www/fw.loc/public/test/error/index.php | Строка: 83
+-------------
+[2019-01-09 13:12:10] Текст ошибки: Упс, исключение   |  Файл: /var/www/fw.loc/public/test/error/index.php | Строка: 81
+-------------
+[2019-01-09 13:13:20] Текст ошибки: Упс, исключение   |  Файл: /var/www/fw.loc/public/test/error/index.php | Строка: 81
+-------------
+[2019-01-09 13:13:46] Текст ошибки: Упс, исключение   |  Файл: /var/www/fw.loc/public/test/error/index.php | Строка: 81
+-------------
